@@ -42,5 +42,5 @@ python product_json.py
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ###### Shoutout to Linux Academy
-    To use the application as it is, you can use the DB setup script to setup a PostgreSQL server with the tables.
-    [DB Setup Script](https://raw.githubusercontent.com/linuxacademy/content-python-use-cases/master/helpers/db_setup.sh)
+To use the application as it is, you can use the DB setup script to setup a PostgreSQL server with the tables.
+[DB Setup Script](https://raw.githubusercontent.com/linuxacademy/content-python-use-cases/master/helpers/db_setup.sh)
